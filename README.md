@@ -141,7 +141,7 @@ open_to             = ["collabs", "open source", "cool web3 ideas"]
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Widet_Caprio)
 [![Farcaster](https://img.shields.io/badge/Farcaster-8A63D2?style=for-the-badge&logo=farcaster&logoColor=white)](https://farcaster.xyz/widetcaprio)
-[![Base](https://img.shields.io/badge/Base_Builder-0052FF?style=for-the-badge&logo=coinbase&logoColor=white)](https://base.org)
+[![Base](https://img.shields.io/badge/Base_Builder-0052FF?style=for-the-badge&logo=coinbase&logoColor=white)](https://base.app/profile/0xb10d4bba186293540392ba3363C354cE3d2446Da?tab=posts)
 [![Arc Community](https://img.shields.io/badge/Arc_House-0C0E13?style=for-the-badge&logo=circle&logoColor=white)](https://community.arc.io)
 
 </div>
