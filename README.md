@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Animated header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=caprio&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=web3%20builder%20%7C%20onchain%20everything%20%7C%20ai%20x%20crypto&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
@@ -17,14 +16,14 @@ building things that actually help people    •    somewhere on every chain    
 
 ### 🧠 about me
 
-- 🔨 I build **bots, scripts, smart contracts, onchain games** — whatever solves a real problem
-- 🤖 Fascinated by **AI agents** — autonomous systems that act onchain, execute trades, move assets
-- ⛓️ Deep in **Web3** — DeFi, NFTs, transaction tooling, leaderboards, automation
-- 🔵 Active builder on **Base** — contributing, shipping, and showing up consistently
-- 🏛️ Also building on **Arc Network** — stablecoin infrastructure, agentic economy
-- 🎯 Goal: infrastructure and tools that make people's lives **actually easier**
-- 🌱 Always learning — Rust, advanced EVM internals, AI x crypto intersections
-- 💬 Ask me about anything onchain — I've probably poked at it
+- 🔨 building bots, scripts, smart contracts, onchain games
+- 🤖 obsessed with AI agents that live and act onchain
+- ⛓️ DeFi, NFTs, txn tooling, leaderboards, automation
+- 🔵 active on Base, shipping consistently
+- 🏛️ building on Arc Network, testnet + Architects program
+- 🎯 i build things that actually help people
+- 🌱 learning Rust, deep EVM, AI x crypto
+- 💬 ask me anything onchain
 
 ---
 
@@ -34,7 +33,7 @@ building things that actually help people    •    somewhere on every chain    
 
 | chain | what i do there |
 |---|---|
-| 🔵 **Base** | games, contracts, NFTs, onchain tooling — main home |
+| 🔵 **Base** | games, contracts, NFTs, onchain tooling, main home |
 | 🏛️ **Arc Network** | testnet contributions, stablecoin infra, Architects program |
 | 🔷 **Ethereum** | smart contracts, DeFi interactions, ERC standards |
 
@@ -42,25 +41,25 @@ building things that actually help people    •    somewhere on every chain    
 
 ---
 
-### 🤖 ai × web3
+### 🤖 ai x web3
 
-> *The most exciting frontier right now is where AI meets onchain infrastructure.*
+> *the most exciting frontier is where AI meets onchain infrastructure*
 
-I'm exploring how **AI agents can interact with blockchains autonomously** — executing transactions, managing wallets, responding to onchain events without human input. Things like:
+exploring how AI agents interact with blockchains autonomously. executing transactions, managing wallets, reacting to onchain events without human input. things like:
 
-- 🧩 Agents that **execute onchain actions** from natural language
-- 📡 Bots that **monitor + react** to smart contract events in real time
-- 🔄 Autonomous systems for **DeFi automation** — rebalancing, sniping, routing
-- 🏗️ Building on **Arc Network's agentic economy** + **Base** infrastructure
+- 🧩 agents that execute onchain actions from natural language
+- 📡 bots that monitor and react to smart contract events in real time
+- 🔄 autonomous systems for DeFi automation, rebalancing, sniping, routing
+- 🏗️ building on Arc Network's agentic economy and Base infrastructure
 
 ---
 
 ### 🚧 currently
 
 ```python
-currently_building  = ["onchain tools on Base", "Arc Network testnet contributions"]
+currently_building  = ["stuff on Base", "Arc testnet contributions"]
 currently_learning  = ["Rust", "AI agent frameworks", "cross-chain txn mechanics"]
-currently_vibing    = "AI agents + stablecoin infrastructure on Base & Arc"
+currently_vibing    = "agents that just do things onchain by themselves"
 open_to             = ["collabs", "open source", "cool web3 ideas"]
 ```
 
@@ -97,9 +96,9 @@ open_to             = ["collabs", "open source", "cool web3 ideas"]
 
 | project | what it does | stack |
 |---|---|---|
-| 🎮 [crazyrunner](https://github.com/widetcaprio/crazyrunner) | onchain endless runner game deployed on Base | HTML · Solidity · Base |
+| 🎮 [crazyrunner](https://github.com/widetcaprio/crazyrunner) | onchain endless runner game on Base | HTML · Solidity · Base |
 | 🤖 bots & scripts | automation tools, trading bots, onchain monitoring | Python · JS · Node.js |
-| 📊 txn leaderboard | smart contract tracking on-chain activity & rankings | Solidity · Web3.js |
+| 📊 txn leaderboard | smart contract tracking on-chain activity and rankings | Solidity · Web3.js |
 | 🖼️ nft collection | deployed NFT collection with contract | Solidity · IPFS |
 
 ---
@@ -150,7 +149,7 @@ open_to             = ["collabs", "open source", "cool web3 ideas"]
 
 <div align="center">
 
-*"i don't know everything — but i'll build it until i do"*
+*"don't fully know what i'm doing yet, but i ship anyway"*
 
 </div>
 
