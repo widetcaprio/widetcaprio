@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=caprio&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=web3%20builder%20%7C%20onchain%20everything&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=caprio&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=web3%20builder%20%7C%20onchain%20everything%20%7C%20ai%20x%20crypto&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -18,11 +18,51 @@ building things that actually help people    •    somewhere on every chain    
 ### 🧠 about me
 
 - 🔨 I build **bots, scripts, smart contracts, onchain games** — whatever solves a real problem
+- 🤖 Fascinated by **AI agents** — autonomous systems that act onchain, execute trades, move assets
 - ⛓️ Deep in **Web3** — DeFi, NFTs, transaction tooling, leaderboards, automation
-- 🌐 Currently building on **Arc Network**, Base, and wherever things are moving
+- 🔵 Active builder on **Base** — contributing, shipping, and showing up consistently
+- 🏛️ Also building on **Arc Network** — stablecoin infrastructure, agentic economy
 - 🎯 Goal: infrastructure and tools that make people's lives **actually easier**
-- 🌱 Always learning — Rust, advanced EVM internals, cross-chain txn mechanics
+- 🌱 Always learning — Rust, advanced EVM internals, AI x crypto intersections
 - 💬 Ask me about anything onchain — I've probably poked at it
+
+---
+
+### ⛓️ chains i build on
+
+<div align="center">
+
+| chain | what i do there |
+|---|---|
+| 🔵 **Base** | games, contracts, NFTs, onchain tooling — main home |
+| 🏛️ **Arc Network** | testnet contributions, stablecoin infra, Architects program |
+| 🔷 **Ethereum** | smart contracts, DeFi interactions, ERC standards |
+
+</div>
+
+---
+
+### 🤖 ai × web3
+
+> *The most exciting frontier right now is where AI meets onchain infrastructure.*
+
+I'm exploring how **AI agents can interact with blockchains autonomously** — executing transactions, managing wallets, responding to onchain events without human input. Things like:
+
+- 🧩 Agents that **execute onchain actions** from natural language
+- 📡 Bots that **monitor + react** to smart contract events in real time
+- 🔄 Autonomous systems for **DeFi automation** — rebalancing, sniping, routing
+- 🏗️ Building on **Arc Network's agentic economy** + **Base** infrastructure
+
+---
+
+### 🚧 currently
+
+```python
+currently_building  = ["onchain tools on Base", "Arc Network testnet contributions"]
+currently_learning  = ["Rust", "AI agent frameworks", "cross-chain txn mechanics"]
+currently_vibing    = "AI agents + stablecoin infrastructure on Base & Arc"
+open_to             = ["collabs", "open source", "cool web3 ideas"]
+```
 
 ---
 
@@ -42,6 +82,7 @@ building things that actually help people    •    somewhere on every chain    
 
 <div align="center">
 
+![Base](https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=coinbase&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
@@ -80,17 +121,38 @@ building things that actually help people    •    somewhere on every chain    
 
 ---
 
+### 🐍 contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/widetcaprio/widetcaprio/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/widetcaprio/widetcaprio/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/widetcaprio/widetcaprio/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
 ### 🌐 find me
 
 <div align="center">
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Widet_Caprio)
 [![Farcaster](https://img.shields.io/badge/Farcaster-8A63D2?style=for-the-badge&logo=farcaster&logoColor=white)](https://farcaster.xyz/widetcaprio)
+[![Base](https://img.shields.io/badge/Base_Builder-0052FF?style=for-the-badge&logo=coinbase&logoColor=white)](https://base.org)
 [![Arc Community](https://img.shields.io/badge/Arc_House-0C0E13?style=for-the-badge&logo=circle&logoColor=white)](https://community.arc.io)
 
 </div>
 
 ---
+
+<div align="center">
+
+*"i don't know everything — but i'll build it until i do"*
+
+</div>
 
 <div align="center">
 
